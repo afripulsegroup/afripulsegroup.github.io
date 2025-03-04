@@ -1,2 +1,2 @@
-# afripulsegroup.github.io
+# Afripulse Group
 Landing
